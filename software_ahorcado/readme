@@ -1,0 +1,41 @@
+README - Juego del Ahorcado
+
+Introducción del Proyecto
+
+Mi proyecto es el  juego del ahorcado, un juego de palabras en el que el jugador debe adivinar una palabra oculta
+antes de que se complete un dibujo representando a una persona ahorcada.
+Se implementaron diversas estructuras lógicas y ciclos para garantizar un flujo de juego funcional y desafiante.
+
+Objetivo
+
+El desarrollo de este juego permitió reforzar conceptos clave de programación y mejorar la capacidad de resolver 
+problemas mediante la implementación de lógica y estructuras de control. Además, sirve como una demostración de 
+los conocimientos adquiridos en clase.
+
+
+Descripción de lo Utilizado en Clase
+
+La principal función del programa es permitir que el usuario adivine una palabra oculta en un número limitado de intentos.
+El programa está diseñado para incluir los siguientes conceptos aprendidos en clase:
+
+Manejo de variables: Se usaron variables para almacenar la palabra oculta, los intentos y el estado del juego.
+
+Uso de estructuras de decisión (if y else): Se emplearon para verificar si la letra ingresada es correcta o incorrecta
+y actualizar el estado del juego en consecuencia.
+
+Presentación en pantalla de los resultados: Se imprime el estado del ahorcado después de cada intento, 
+así como la palabra parcial adivinada hasta el momento.
+
+Uso de bucles: Se usó un bucle while para permitir que el jugador siga intentando hasta que gane o pierda. 
+Además, se validó la entrada del usuario para evitar caracteres no válidos.
+
+Generación de palabras aleatorias: La palabra a adivinar se selecciona aleatoriamente de una lista predefinida.
+
+Uso de listas y funciones: Se emplearon listas para almacenar la palabra oculta y las letras adivinadas, 
+y funciones para modularizar el código y hacerlo más legible y reutilizable.
+
+
+
+Fecha
+
+27/02/2025
